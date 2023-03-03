@@ -1,0 +1,1 @@
+print(''.join([input("любое слово") for i in range(int(input("количество слов")))]))
